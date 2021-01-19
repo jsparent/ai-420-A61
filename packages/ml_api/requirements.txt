@@ -3,4 +3,4 @@ flask==1.0.2
 
 # local regression_model package
 # update with your local path
--e "C:\AI\ai-420-A61\packages\regression_model"
+-e "C:\AI\ai-420-A61\packages\regression_model\regression_model"
